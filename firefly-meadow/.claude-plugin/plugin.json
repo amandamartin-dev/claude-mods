@@ -1,0 +1,10 @@
+{
+  "name": "firefly-meadow",
+  "version": "0.1.0",
+  "description": "A cozy anime-style summer night: drifting fireflies, slow-twinkling stars and the odd shooting star behind your session.",
+  "author": {
+    "name": "amandamartin-dev"
+  },
+  "repository": "https://github.com/amandamartin-dev/claude-mods",
+  "license": "MIT"
+}

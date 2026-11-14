@@ -1,0 +1,19 @@
+{
+  "name": "my-mods",
+  "owner": {
+    "name": "amandamartin-dev"
+  },
+  "description": "Animated background themes for the Claude desktop app: Deep Field and Firefly Meadow.",
+  "plugins": [
+    {
+      "name": "deep-field",
+      "source": "./deep-field",
+      "description": "Self-playing asteroid field behind the desktop app, dark frosted panels, cyan and orange accents."
+    },
+    {
+      "name": "firefly-meadow",
+      "source": "./firefly-meadow",
+      "description": "A summer night of fireflies, twinkling stars and the odd shooting star."
+    }
+  ]
+}

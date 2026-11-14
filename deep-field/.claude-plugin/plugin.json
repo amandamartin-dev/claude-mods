@@ -1,0 +1,10 @@
+{
+  "name": "deep-field",
+  "version": "0.1.0",
+  "description": "Deep Field: a self-playing asteroid field behind the desktop app at 35% opacity, dark frosted panels, cyan and orange accents.",
+  "author": {
+    "name": "amandamartin-dev"
+  },
+  "repository": "https://github.com/amandamartin-dev/claude-mods",
+  "license": "MIT"
+}

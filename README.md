@@ -8,7 +8,13 @@ mobile app. The terminal doesn't draw themes.
 | [Deep Field](deep-field/) | A self-playing asteroid game behind the window, with a nebula, a ringed planet and shooting stars. Dark frosted panels, cyan and orange accents. |
 | [Firefly Meadow](firefly-meadow/) | A summer night in tall swaying grass, with about 55 fireflies, twinkling stars, a moon and the odd shooting star. Indigo panels, firefly-amber accents. |
 
-<!-- Add screenshots here, e.g. ![Deep Field](docs/deep-field.png) -->
+### Deep Field
+
+![Deep Field: a ship hunting asteroids past a nebula and a ringed planet, behind the Claude desktop app](docs/deep-field.webp)
+
+### Firefly Meadow
+
+![Firefly Meadow: fireflies over tall grass under a moon and two trees, behind the Claude desktop app](docs/firefly-meadow.webp)
 
 ## Install
 
